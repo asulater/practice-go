@@ -1,1 +1,1 @@
-# practice-go
+just practice go
