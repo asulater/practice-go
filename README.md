@@ -1,1 +1,1 @@
-just practice go
+just practice go lang
